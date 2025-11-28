@@ -42,3 +42,5 @@ html_theme_options = {
 }
 
 html_css_files = ['custom.css',]
+
+html_baseurl = "https://mchini.github.io/con2phys/"
