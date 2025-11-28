@@ -1,6 +1,6 @@
 # Questions
 
-The questionnaire:
+The [questionnaire](_static/questionnaire.pdf):
 
 - Consists of 15 questions, arranged in order of increasing complexity and abstraction, from basic "sanity checks" to abstract 
 concepts such as dimensionality and complexity; 
