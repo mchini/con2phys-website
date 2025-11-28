@@ -1,0 +1,36 @@
+/* Force text justification for all body content */
+.wy-nav-content {
+    text-align: justify;
+}
+
+/* Avoid justification in code blocks and tables */
+.wy-nav-content pre,
+.wy-nav-content code,
+.wy-nav-content table {
+    text-align: left;
+}
+
+.wy-nav-content {
+    max-width: 900px !important;
+}
+
+.wy-nav-content p {
+    margin-bottom: 1.2em;
+}
+
+.wy-nav-content h1, 
+.wy-nav-content h2, 
+.wy-nav-content h3 {
+    font-weight: 600;
+    margin-top: 1.6em;
+}
+
+.wy-nav-content {
+    background: white;
+    padding: 3rem !important;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+}
+
+.wy-side-nav-search {
+    background-color: #2980B9 !important;
+}
