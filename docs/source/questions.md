@@ -17,7 +17,6 @@ The following information is collected for each question:
 - 🧾 [Methods and code](#methods-and-code)
 
 ---
-
 (multiple-choice-answers)=
 ## Multiple-choice answers
 
@@ -38,7 +37,6 @@ The questions are ordered from:
 3. More abstract questions about information, decoding, dimensionality, modularity, and neural complexity. 
 
 ---
-
 (belief-metrics)=
 ## Belief metrics
 
@@ -51,7 +49,6 @@ For every question, participants rate three belief-related metrics on a 1–10 s
 These ratings are provided **separately for each question**.
 
 ---
-
 (quantitative-estimates)=
 
 ## Quantitative estimates
@@ -77,7 +74,6 @@ Using a single central-tendency estimate (the mean) is limiting, but necessary t
 the data as you best see fit.
 
 ---
-
 (methods-and-code)=
 
 ## Methods and code
@@ -98,7 +94,6 @@ Participants are strongly encouraged to:
 The goal is that another participant, given the same data and the description/code, could in principle reproduce the answer.
 
 ---
-
 (example-questions)=
 
 ## Example questions
@@ -120,7 +115,6 @@ The full questionnaire includes 15 questions. Here are some practical examples t
 These examples are illustrative; participants will see the full list of 15 questions in the questionnaire document. 
 
 ---
-
 (time-commitment-and-expectations)=
 
 ## Time commitment and expectations
