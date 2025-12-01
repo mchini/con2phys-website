@@ -11,7 +11,7 @@ excitation–inhibition balance, intrinsic neuronal timescales, decoding, dimens
 
 The following information is collected for each question:
 
-- 🧩 [Multiple-choice answers](#multiple-choice-answers)
+- 🔤 [Multiple-choice answers](#multiple-choice-answers)
 - 📊 [Belief metrics](#belief-metrics)
 - 🧮 [Quantitative estimates](#quantitative-estimates)
 - 🧾 [Methods and code](#methods-and-code)

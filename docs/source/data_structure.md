@@ -1,6 +1,6 @@
 # Data Structure
 
-The dataset:
+The [dataset](https://ibl-brain-wide-map-public.s3.amazonaws.com/index.html#resources/con2phys/):
 
 - Consists of 18 compressed files, each corresponding to one of the 18 mice included in the dataset;
 - Comprises single-unit activity (SUA) and local field potentials (LFP) recorded using a Neuropixels probe during a behavioral task;
