@@ -4,18 +4,17 @@
 **CON²PHYS** is a collaborative study that aims to quantify how much -- or how little -- consensus exists among neuroscientists when interpreting fundamental 
 in vivo electrophysiology concepts.  
 
-The rationale behind this project is the suspicion that **systems neuroscience** is becoming an increasingly **fragmented field**.
+This project stems from the conviction that **systems neuroscience** is becoming an increasingly **fragmented field**.
 Terms like “representation”, “functional connectivity” or "gamma oscillations" sound universal,
-yet their definitions and implementations vary wildly depending on who you ask. 
+yet their definitions and implementations vary widely depending on who you ask. 
 
 Do these differences make a difference? That’s precisely the empirical question that CON²PHYS will answer.
 
 ## How does the project work?
 
 We will give you a single dataset to analyze and 15 multiple-choice questions to answer. 
-The questions will be seemingly straightforward and deliberately underspecified. 
-You will answer using your own assumptions and pipelines. 
-The goal is to reveal how individual analytical choices -- often arbitrary, often invisible -- might ultimately lead to different results. 
+The questions are seemingly straightforward and deliberately underspecified, and you will answer them using your own assumptions and pipelines. 
+The goal is to reveal how our everyday analytical choices -- often arbitrary, often invisible -- might ultimately lead to different results. 
 
 **Participation is open** to all neuroscientists with substantial prior systems neuroscience experience regardless of the subdiscipline: 
 from computational to cellular neuroscience, and everything in between. Participation comes with a concrete incentive: 

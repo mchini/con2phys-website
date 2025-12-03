@@ -5,7 +5,7 @@ The [dataset](https://ibl-brain-wide-map-public.s3.amazonaws.com/index.html#reso
 - Consists of 18 compressed files, each corresponding to one of the 18 mice included in the dataset;
 - Comprises single-unit activity (SUA) and local field potentials (LFP) recorded using a Neuropixels probe during a behavioral task;
 - Task details and electrode placements are intentionally kept minimal to reduce biases and minimize workload;
-- The data has been collected from 3 simultaneously recorded brain areas;
+- Data were collected from 3 simultaneously recorded brain areas;
 - Every recording includes LFP (≥20 channels) and SUA (≥5 units, total of 1449 units) signals from each brain area;
 - The length of the recordings varies between 55 and 101 minutes.
 
@@ -28,9 +28,9 @@ For each mouse, the following data is provided:
 - **`stim_start`** (s): Stimulus presentation.
 - **`outcome`** (s): Reward or punishment time.
 - **`trial_end`** (s): Trial conclusion (the trial length is variable).
-- **`Variable A`**: Binary qualitative behavioral variable.
-- **`Variable B`**: Binary qualitative behavioral variable.
-- **`Variable C`**: Qualitative behavioral variable (1–3).
+- **`Variable A`**: Binary behavioral variable.
+- **`Variable B`**: Binary behavioral variable.
+- **`Variable C`**: Behavioral variable (1–3).
 
 ---
 
@@ -73,10 +73,10 @@ For each mouse, the following data is provided:
 
 **LFP** (`.npy`, `.mat`):
 - `lfp1`, `lfp2`, `lfp3` each contain `[num_channels × timestamps]` arrays of LFP signals.  
-- The number of channels varies from brain area to brain and from mouse to mouse. The minimum number of channels per brain area is 20.  
+- The number of channels varies across brain areas and across mice. The minimum number of channels per brain area is 20.  
 - Channels within a brain area are contiguous in space, but channels from different brain areas are not.  
 - Channels within a brain area are ordered from the deepest to the most superficial with respect to the brain surface.  
-- The dataset comprises one channel every two that have been recorded on the Neuropixel probe. The vertical spacing between recording sites is 20µM  
+- The dataset includes every other channel from the Neuropixels probe. The vertical spacing between recording sites is 20 µm.
 - The signal has been recorded with an external reference and has already undergone a preprocessing pipeline.  
 - Sampling rate: 500 Hz.  
 

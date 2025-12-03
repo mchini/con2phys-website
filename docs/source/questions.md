@@ -64,14 +64,16 @@ For each question, participants report the quantitative estimates that support t
 
 For example, a typical table might look like:
 
-- Brain Area | Mean | 95% C.I. | Units
-- Area 1     |  …   |    …     |  …
-- Area 2     |  …   |    …     |  …
-- Area 3     |  …   |    …     |  …
+| Brain area | Mean | 95% CI | Units |
+|------------|------|--------|-------|
+| Area 1     |  …   |   …    |  …    |
+| Area 2     |  …   |   …    |  …    |
+| Area 3     |  …   |   …    |  …    |
+
 
 Participants are free to choose how they compute these estimates, as long as they describe it clearly in the methods section for that question.
-Using a single central-tendency estimate (the mean) is limiting, but necessary to make estimates comparable. You are free to transform
-the data as you best see fit.
+Using a single central tendency estimate (the mean) is limiting, but necessary to make estimates comparable. You are free to transform
+the data as you see fit.
 
 ---
 (methods-and-code)=
